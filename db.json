@@ -1,0 +1,189 @@
+{
+  "users": [
+    {
+      "username": "Jhon",
+      "id": 1
+    },
+    {
+      "username": "Michael",
+      "id": 2
+    },
+    {
+      "username": "Cariaco",
+      "id": 3
+    },
+    {
+      "username": "Rosales",
+      "id": 4
+    },
+    {
+      "username": "Jose",
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "username": "Paola",
+      "id": 7
+    },
+    {
+      "username": "Genesis",
+      "id": 8
+    },
+    {
+      "username": "Jon",
+      "id": 9
+    },
+    {
+      "username": "Vanessa",
+      "id": 10
+    },
+    {
+      "username": "MiguelAngel",
+      "id": 11
+    },
+    {
+      "username": "Viviana",
+      "id": 12
+    },
+    {
+      "username": "Viviana1",
+      "id": 13
+    },
+    {
+      "username": "Emily",
+      "id": 14
+    },
+    {
+      "username": "Nuevo",
+      "id": 15
+    },
+    {
+      "username": "Jimenez",
+      "id": 16
+    }
+  ],
+  "tareas": [
+    {
+      "text": "Lava el carro",
+      "user": "Jhon",
+      "id": 1
+    },
+    {
+      "text": "Lava el carro",
+      "user": "Jhon",
+      "id": 2
+    },
+    {
+      "text": "hola",
+      "user": "Genesis",
+      "id": 3
+    },
+    {
+      "text": "hola",
+      "user": "Jhon",
+      "id": 4
+    },
+    {
+      "text": "Cierra la casa",
+      "user": "Jhon",
+      "id": 5
+    },
+    {
+      "text": "Lava el carro",
+      "user": "Vanessa",
+      "id": 6
+    },
+    {
+      "text": "Lava el carro",
+      "user": "Jhon",
+      "id": 7
+    },
+    {
+      "text": "Cierra la casa",
+      "user": "Jhon",
+      "id": 8
+    },
+    {
+      "text": "Lava el carro",
+      "user": "MiguelAngel",
+      "id": 9
+    },
+    {
+      "text": "Lava el carro",
+      "user": "MiguelAngel",
+      "id": 10
+    },
+    {
+      "text": "Lava el carro",
+      "user": "Viviana",
+      "id": 11
+    },
+    {
+      "text": "Lava el carro",
+      "user": "Viviana",
+      "id": 12
+    },
+    {
+      "text": "Lava el carro",
+      "user": "Emily",
+      "id": 13
+    },
+    {
+      "text": "Lava el carro",
+      "user": "Nuevo",
+      "id": 14
+    },
+    {
+      "text": "hola",
+      "user": "Nuevo",
+      "id": 15
+    },
+    {
+      "text": "Lava el carro",
+      "user": "Nuevo",
+      "id": 16
+    },
+    {
+      "text": "Lava el carro",
+      "user": "Jimenez",
+      "id": 17
+    },
+    {
+      "text": "Lava el carro",
+      "user": "Jimenez",
+      "id": 18
+    },
+    {
+      "text": "hola",
+      "user": "Jimenez",
+      "id": 19
+    },
+    {
+      "text": "",
+      "user": "Jimenez",
+      "id": 20
+    },
+    {
+      "text": "",
+      "user": "Jimenez",
+      "id": 21
+    },
+    {
+      "text": "Lava el carro",
+      "user": "Jimenez",
+      "id": 22
+    },
+    {
+      "text": "",
+      "user": "Jimenez",
+      "id": 23
+    },
+    {
+      "text": "",
+      "user": "Jimenez",
+      "id": 24
+    }
+  ]
+}
